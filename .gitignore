@@ -1,0 +1,5 @@
+.idea
+.DS_Store
+java-kafka.iml
+java-kafka-consumer/java-kafka-consumer.iml
+java-kafka-producer/java-kafka-producer.iml

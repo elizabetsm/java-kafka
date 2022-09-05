@@ -1,0 +1,3 @@
+ru/kafka/config/KafkaConsumerConfig.class
+ru/kafka/listener/kafkaListener.class
+ru/kafka/Main.class

@@ -1,0 +1,5 @@
+ru/kafka/config/KafkaProducerConfig.class
+ru/kafka/sender/KafkaMsgSender.class
+ru/kafka/config/KafkaTopicConfig.class
+ru/kafka/sender/KafkaMsgSender$1.class
+ru/kafka/Main.class
